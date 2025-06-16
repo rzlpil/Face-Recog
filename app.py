@@ -8,4 +8,4 @@ st.title("👤 Face Detection with TensorFlow.js in Streamlit")
 st.markdown("Iframe di bawah ini memuat HTML yang mengakses webcam dan mendeteksi wajah dengan model TensorFlow.js.")
 
 # Ganti URL ini dengan alamat hosting GitHub Pages milikmu
-components.iframe("https://rzlpil.github.io/Face-Recog/face_detector.html", height=600)
+components.iframe("https://github.com/rzlpil/Face-Recog/blob/main/face_detector.html", height=600)
